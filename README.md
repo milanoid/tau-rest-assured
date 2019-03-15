@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/milanoid/tau-rest-assured.svg?branch=master)](https://travis-ci.org/milanoid/tau-rest-assured)
+
 About this repository
 ==================
 This repository contains all the code samples that are shown in the videos of my REST Assured course that is part of [Test Automation University](https://testautomationu.applitools.com/).
