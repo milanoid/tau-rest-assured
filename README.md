@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/milanoid/tau-rest-assured.svg?branch=master)](https://travis-ci.org/milanoid/tau-rest-assured)
+[![Build Status](https://travis-ci.com/milanoid/tau-rest-assured.svg?branch=master)](https://travis-ci.com/milanoid/tau-rest-assured)
 
 About this repository
 ==================
